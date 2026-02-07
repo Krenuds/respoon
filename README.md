@@ -2,7 +2,7 @@
 
 A networked scene editor for FiveM. Spawn props, peds, and vehicles — collaborate in real-time.
 
-**[Join the Discord](https://discord.gg/F2s8hREkbY)** for help, updates, and to share what you build.
+**[Join the Discord](https://discord.gg/mgumPaknVK)** for help, updates, and to share what you build.
 
 ---
 
@@ -61,4 +61,4 @@ Press **F7** or type `/rs` to open the editor.
 
 ## Need Help?
 
-**[Discord](https://discord.gg/F2s8hREkbY)** — bug reports, feature requests, questions, anything.
+**[Discord](https://discord.gg/mgumPaknVK)** — bug reports, feature requests, questions, anything.
