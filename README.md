@@ -1,12 +1,13 @@
-# Respoon v0.06
+<p align="center">
+  <img src="screenshots/banner.png" alt="Respoon" width="100%">
+</p>
 
-A networked scene editor for FiveM. Spawn props, peds, and vehicles — collaborate in real-time.
-
-**[Join the Discord](https://discord.gg/mgumPaknVK)** for help, updates, and to share what you build.
+<p align="center">
+  A networked scene editor for FiveM. Spawn props, peds, and vehicles — collaborate in real-time.<br>
+  <strong><a href="https://discord.gg/mgumPaknVK">Join the Discord</a></strong> for help, updates, and to share what you build.
+</p>
 
 ---
-
-## Screenshots
 
 <p align="center">
   <img src="screenshots/hero.png" alt="Respoon Editor Overview" width="100%">
