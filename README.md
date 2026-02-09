@@ -6,6 +6,28 @@ A networked scene editor for FiveM. Spawn props, peds, and vehicles — collabor
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/scene-settings.png" alt="Scene Settings and Vehicle Inspector" width="100%">
+</p>
+<p align="center"><em>Scene settings with time & weather control alongside the vehicle inspector</em></p>
+
+<p align="center">
+  <img src="screenshots/hierarchy.png" alt="Hierarchy Panel" width="260">
+  <img src="screenshots/inspector.png" alt="Entity Inspector" width="260">
+  <img src="screenshots/browser.png" alt="Entity Browser" width="260">
+</p>
+<p align="center"><em>Hierarchy — Inspector — Browser</em></p>
+
+<p align="center">
+  <img src="screenshots/task-builder.png" alt="Task Builder" width="420">
+  <img src="screenshots/scene-panel.png" alt="Scene Panel" width="260">
+</p>
+<p align="center"><em>Task Builder for ped AI sequences — Scene Panel for room management</em></p>
+
+---
+
 ## Quick Start
 
 Extract `respoon` into your server's `resources/` folder, then add this to your `server.cfg`:
@@ -37,6 +59,7 @@ Press **F7** or type `/rs` to open the editor.
 - **Entity Spawning** — Place props, peds (with animations), and vehicles
 - **Scene Director** — Save named frames and switch between scene configurations
 - **Task Builder** — Chain ped movements, animations, and actions into sequences
+- **Environment** — Control time, weather, traffic, and pedestrian population per-room
 
 ## Need Help?
 
