@@ -9,9 +9,8 @@ A networked scene editor for FiveM. Spawn props, peds, and vehicles — collabor
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/scene-settings.png" alt="Scene Settings and Vehicle Inspector" width="100%">
+  <img src="screenshots/hero.png" alt="Respoon Editor Overview" width="100%">
 </p>
-<p align="center"><em>Scene settings with time & weather control alongside the vehicle inspector</em></p>
 
 <p align="center">
   <img src="screenshots/hierarchy.png" alt="Hierarchy Panel" width="260">
