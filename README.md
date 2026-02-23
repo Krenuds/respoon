@@ -1,8 +1,30 @@
-# Respoon v0.06
+<p align="center">
+  <img src="screenshots/banner.png" alt="Respoon" width="100%">
+</p>
 
-A networked scene editor for FiveM. Spawn props, peds, and vehicles — collaborate in real-time.
+<p align="center">
+  A networked scene editor for FiveM. Spawn props, peds, and vehicles — collaborate in real-time.<br>
+  <strong><a href="https://discord.gg/mgumPaknVK">Join the Discord</a></strong> for help, updates, and to share what you build.
+</p>
 
-**[Join the Discord](https://discord.gg/mgumPaknVK)** for help, updates, and to share what you build.
+---
+
+<p align="center">
+  <img src="screenshots/hero.png" alt="Respoon Editor Overview" width="100%">
+</p>
+
+<p align="center">
+  <img src="screenshots/hierarchy.png" alt="Hierarchy Panel" width="260">
+  <img src="screenshots/inspector.png" alt="Entity Inspector" width="260">
+  <img src="screenshots/browser.png" alt="Entity Browser" width="260">
+</p>
+<p align="center"><em>Hierarchy — Inspector — Browser</em></p>
+
+<p align="center">
+  <img src="screenshots/task-builder.png" alt="Task Builder" width="420">
+  <img src="screenshots/scene-panel.png" alt="Scene Panel" width="260">
+</p>
+<p align="center"><em>Task Builder for ped AI sequences — Scene Panel for room management</em></p>
 
 ---
 
@@ -37,6 +59,7 @@ Press **F7** or type `/rs` to open the editor.
 - **Entity Spawning** — Place props, peds (with animations), and vehicles
 - **Scene Director** — Save named frames and switch between scene configurations
 - **Task Builder** — Chain ped movements, animations, and actions into sequences
+- **Environment** — Control time, weather, traffic, and pedestrian population per-room
 
 ## Need Help?
 
