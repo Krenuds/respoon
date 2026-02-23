@@ -1,11 +1,36 @@
+# Respoon
+
 <p align="center">
-  <img src="screenshots/banner.png" alt="Respoon" width="100%">
+  <img src="screenshots/banner.png" alt="Respoon — Networked Scene Editor for FiveM" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Krenuds/respoon/releases/latest"><img src="https://img.shields.io/github/v/release/Krenuds/respoon?style=flat-square" alt="Release"></a>
+  <a href="https://github.com/Krenuds/respoon/stargazers"><img src="https://img.shields.io/github/stars/Krenuds/respoon?style=flat-square" alt="Stars"></a>
+  <a href="https://discord.gg/mgumPaknVK"><img src="https://img.shields.io/discord/1464650557980541182?style=flat-square&label=Discord" alt="Discord"></a>
+  <a href="https://github.com/Krenuds/respoon/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-custom-blue?style=flat-square" alt="License"></a>
 </p>
 
 <p align="center">
   A networked scene editor for FiveM. Spawn props, peds, and vehicles — collaborate in real-time.<br>
   <strong><a href="https://discord.gg/mgumPaknVK">Join the Discord</a></strong> for help, updates, and to share what you build.
 </p>
+
+---
+
+## Features
+
+- **Real-Time Collaboration** — Create or join rooms and build scenes together with other players, live
+- **Prop Spawner** — Browse and place 21,000+ props with gizmo controls, snapping, and rotation
+- **Ped & Vehicle Spawner** — Spawn from 1,100+ peds and 900+ vehicles with full customization
+- **Task Builder** — Chain ped movements, animations, and actions into AI sequences
+- **Scene Director** — Save named frames and switch between scene configurations
+- **Ped Animations** — Search and preview 269,000+ animation clips
+- **Particle Effects** — Browse and attach 2,800+ particle effects
+- **Debug Menu** — Inspect and manipulate the game world in real time
+- **Environment Controls** — Per-room time, weather, traffic, and population settings
+
+**Works with QBCore, ESX, QBox, or standalone** — no framework dependency.
 
 ---
 
