@@ -78,7 +78,7 @@ set mysql_connection_string "mysql://user:password@localhost:3306/database"
 
 ## Getting Started
 
-Press **F7** or type `/rs` to open the editor.
+Type `/rs` in chat to open the editor. You can also bind a key in FiveM's keybind settings.
 
 - **Rooms** — Create or join private workspaces to collaborate with others
 - **Entity Spawning** — Place props, peds (with animations), and vehicles
