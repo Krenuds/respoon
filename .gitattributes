@@ -1,0 +1,6 @@
+dist/*.js linguist-vendored=false linguist-generated=false linguist-detectable
+web/build/assets/*.js linguist-vendored=false linguist-generated=false linguist-detectable
+web/build/*.html linguist-vendored
+fxmanifest.lua linguist-vendored
+data/*.sql linguist-vendored
+screenshots/* linguist-vendored
