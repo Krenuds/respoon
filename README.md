@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/Krenuds/respoon/stargazers"><img src="https://img.shields.io/github/stars/Krenuds/respoon?style=flat-square" alt="Stars"></a>
   <a href="https://discord.gg/mgumPaknVK"><img src="https://img.shields.io/discord/1464650557980541182?style=flat-square&label=Discord" alt="Discord"></a>
-  <a href="https://github.com/Krenuds/respoon/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-custom-blue?style=flat-square" alt="License"></a>
+  <a href="https://github.com/Krenuds/respoon/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-BUSL--1.1-blue?style=flat-square" alt="License"></a>
 </p>
 
 <p align="center">
