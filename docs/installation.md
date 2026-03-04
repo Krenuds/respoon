@@ -16,15 +16,16 @@ Before installing Respoon, make sure you have the following:
 
 Copy the `respoon` folder into your server's `resources/` directory.
 
-Add `ensure respoon` to your `server.cfg`. Respoon must load **after** ox\_core and ox\_lib in your resource load order.
-
-The correct load order is:
+Add `ensure respoon` to your `server.cfg`. If you use oxmysql, Respoon should load after it:
 
 ```cfg
 ensure chat
-# ... other ox resources (ox_inventory, ox_target, etc.)
+ensure oxmysql
+# ... your other resources
 ensure respoon
 ```
+
+Respoon has no framework dependencies — it works with any server setup (ESX, QBCore, ox_core, standalone, etc.).
 ### 3. Database Configuration
 
 **If you run oxmysql:** No extra configuration is needed. Respoon detects oxmysql automatically and uses its connection pool.

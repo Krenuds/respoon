@@ -65,8 +65,7 @@ Full documentation is available in the [docs](docs/) directory:
 
 - FiveM server (artifact build 5181+)
 - MySQL 5.7+ or MariaDB 10.2+
-- ox_lib, ox_core
-- oxmysql (recommended)
+- oxmysql (recommended) or any mysql2-compatible driver
 
 ## Support
 

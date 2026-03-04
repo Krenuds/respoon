@@ -10,15 +10,13 @@ Respoon is a real-time development toolkit for FiveM. It provides entity inspect
 
 - FiveM server (artifact build 5181 or later)
 - MySQL 5.7+ or MariaDB 10.2+
-- oxmysql (recommended database driver)
-- ox_lib
-- ox_core
+- oxmysql (recommended) or any mysql2-compatible database driver
 
 See [Installation](installation.md) for full setup instructions.
 
 **Does Respoon work with ESX, QBCore, or standalone?**
 
-Respoon requires ox_core as its player and character framework. It does not currently support ESX, QBCore, or standalone server configurations.
+Yes. Respoon is framework-agnostic — it does not depend on ox_core, ox_lib, ESX, QBCore, or any other player framework. The only external dependency is a MySQL-compatible database driver (oxmysql recommended, but Respoon includes a bundled mysql2 fallback).
 
 **How many rooms can run simultaneously?**
 
@@ -59,18 +57,16 @@ Ensure your MySQL or MariaDB server is running and the connection string in `ser
 
 **What is the correct resource load order?**
 
-Respoon must load after ox_core and ox_lib. The recommended order in `server.cfg` is:
+Respoon only needs to load after your database driver. The recommended order in `server.cfg` is:
 
 ```
 ensure chat
 ensure oxmysql
-ensure ox_lib
-ensure ox_core
-# ... other ox extensions (ox_inventory, ox_target, etc.)
+# ... your other resources
 ensure respoon
 ```
 
-Loading Respoon before its dependencies will cause startup failures.
+If you do not use oxmysql, Respoon will fall back to its bundled mysql2 driver — just make sure your MySQL connection string is set in `server.cfg`.
 
 ---
 
