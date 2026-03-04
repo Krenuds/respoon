@@ -18,19 +18,12 @@ Before installing Respoon, make sure you have the following:
 
 Copy the `respoon` folder into your server's `resources/` directory.
 
-**Important:** Ensure hidden files are copied during extraction. Respoon includes a `.fxap` asset protection file that must be present. Some file managers and archive tools skip hidden files by default. If you are extracting on Windows, confirm that your extraction tool preserves hidden files. On Linux, use `cp -a` or `rsync -a` to include dotfiles.
-
-### 2. Configure server.cfg
-
 Add `ensure respoon` to your `server.cfg`. Respoon must load **after** ox\_core and ox\_lib in your resource load order.
 
 The correct load order is:
 
 ```cfg
 ensure chat
-ensure oxmysql
-ensure ox_lib
-ensure ox_core
 # ... other ox resources (ox_inventory, ox_target, etc.)
 ensure respoon
 ```
