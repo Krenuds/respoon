@@ -8,8 +8,6 @@ Before installing Respoon, make sure you have the following:
 
 - **FiveM server** running artifact build **5181 or newer**
 - **MySQL 5.7+** or **MariaDB 10.2+** database
-- **ox\_lib** — required dependency
-- **ox\_core** — required dependency
 - **oxmysql** — recommended but optional (Respoon includes a bundled mysql2 fallback for servers that do not run oxmysql)
 
 ## Step-by-Step Installation
@@ -27,20 +25,11 @@ ensure chat
 # ... other ox resources (ox_inventory, ox_target, etc.)
 ensure respoon
 ```
-
-Loading Respoon before its dependencies will cause startup failures. If you run other custom resources that depend on Respoon exports, load them after Respoon.
-
 ### 3. Database Configuration
 
 **If you run oxmysql:** No extra configuration is needed. Respoon detects oxmysql automatically and uses its connection pool.
 
 **Without oxmysql:** Add a MySQL connection string to your `server.cfg`:
-
-```cfg
-set mysql_connection_string "mysql://user:password@localhost:3306/database"
-```
-
-Replace `user`, `password`, `localhost`, `3306`, and `database` with your actual database credentials. The connection string follows standard MySQL URI format.
 
 ### 4. Permissions
 
