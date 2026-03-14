@@ -4,7 +4,7 @@
   <img src="screenshots/banner.png" alt="Respoon — Development Toolkit for FiveM" width="100%">
 </p>
 https://discord.gg/h9BtusuD
-<p align="center">
+<p align="center">https://discord.gg/h9BtusuD
   <a href="https://github.com/Krenuds/respoon/stargazers"><img src="https://img.shields.io/github/stars/Krenuds/respoon?style=flat-square" alt="Stars"></a>
   <a href="https://discord.gg/h9BtusuD"><img src="https://img.shields.io/discord/1464650557980541182?style=flat-square&label=Discord" alt="Discord"></a>
   <a href="https://github.com/Krenuds/respoon/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-BUSL--1.1-blue?style=flat-square" alt="License"></a>
