@@ -3,7 +3,6 @@
 <p align="center">
   <img src="screenshots/banner.png" alt="Respoon — Development Toolkit for FiveM" width="100%">
 </p>
-https://discord.gg/h9BtusuD
 <p align="center">
   <a href="https://github.com/Krenuds/respoon/stargazers"><img src="https://img.shields.io/github/stars/Krenuds/respoon?style=flat-square" alt="Stars"></a>
   <a href="https://discord.gg/h9BtusuD"><img src="https://img.shields.io/discord/1464650557980541182?style=flat-square&label=Discord" alt="Discord"></a>
@@ -12,7 +11,7 @@ https://discord.gg/h9BtusuD
 
 <p align="center">
   A real-time development toolkit for FiveM. Inspect, edit, and script game entities without server restarts.<br>
-  <strong><a href="https://discord.gg/mgumPaknVK">Discord</a></strong> · <strong><a href="docs/introduction.md">Documentation</a></strong>
+  <strong><a href="https://discord.gg/h9BtusuD">Discord</a></strong> · <strong><a href="docs/introduction.md">Documentation</a></strong>
 </p>
 
 ---
@@ -69,4 +68,4 @@ Full documentation is available in the [docs](docs/) directory:
 
 ## Support
 
-**[Discord](https://discord.gg/mgumPaknVK)** — bug reports, feature requests, and support.
+**[Discord](https://discord.gg/h9BtusuD)** — bug reports, feature requests, and support.
